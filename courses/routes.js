@@ -41,6 +41,7 @@ function CourseRoutes(app) {
 
 
     app.post("/api/courses", (req, res) => {
+        console.log("posting in back");
         const course = {
             ...req.body,
             _id: new Date().getTime().toString()
@@ -50,10 +51,10 @@ function CourseRoutes(app) {
     });
 
 
-    // app.get("/api/courses", (req, res) => {
-    //     const courses = Database.courses;
-    //     res.send(courses);
-    // });
+    app.get("/api/courses", (req, res) => {
+        const courses = Database.courses;
+        res.send(courses);
+    });
 }
 
 export default CourseRoutes;
