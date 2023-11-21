@@ -1,0 +1,29 @@
+
+[
+  { "_id": "1",
+    "name": "Account", "number": "1", "icon": "fa-user"
+  },
+  { "_id": "2",
+    "name": "Dashboard", "icon": "fa-film"
+  },
+  { "_id": "3",
+    "name": "Courses", "icon": "fa-book"
+  },
+  { "_id": "4",
+    "name": "Calendar", "icon": "fa-calendar"
+  },
+  { "_id": "5",
+    "name": "Inbox", "icon": "fa-inbox"
+  },{ "_id": "9",
+  "name": "History", "icon": "fa-file"
+},{ "_id": "7",
+  "name": "Studio", "icon": "fa-globe"
+},{ "_id": "9",
+  "name": "Commons", "icon": "fa-bookmark"
+}
+,{ "_id": "10",
+  "name": "Help", "icon": "fa-question-circle"
+}
+
+
+]

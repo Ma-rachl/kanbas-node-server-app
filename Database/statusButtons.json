@@ -1,0 +1,22 @@
+
+[
+  { "_id": "3",
+    "name": "Import Existing Content", "color": "btn  text-start mt-3 btn-light border border-secondary", "icon": "fa fa-book mx-2"
+  },
+  { "_id": "4",
+    "name": "Import from Commons",  "color": "btn text-start mt-1 btn-light border border-secondary", "icon": "fa fa-calendar mx-2"
+  },
+  { "_id": "5",
+    "name": "Choose Home Page",  "color": "btn  text-start mt-1  btn-light border border-secondary","icon": "fa fa-bookmark mx-2"
+  },{ "_id": "9",
+  "name": "View Course Stream", "color": "btn text-start mt-1  btn-light border border-secondary", "icon": "fa fa-file mx-2"
+},{ "_id": "7",
+  "name": "New Announcement",  "color": "btn text-start mt-1   btn-light  border border-secondary","icon": "fa fa-microphone mx-2"
+},{ "_id": "9",
+  "name": "New Analytics", "color": "btn text-start mt-1  btn-light border  border-secondary", "icon": "fas fa-char-pie mx-2"
+}
+,{ "_id": "10",
+  "name": "View Course Notifications ",  "color": "btn mt-1   text-start btn-light border border-secondary", "icon": "fa fa-question-circle mx-2"
+}
+
+]

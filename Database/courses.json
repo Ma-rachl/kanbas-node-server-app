@@ -1,0 +1,32 @@
+[
+  { "_id": "RS101",
+    "name": "Rocket Proplsion", "number": "RS4550", "startDate": "2023-01-10",
+    "endDate": "2023-05-15"
+  },
+  { "_id": "RS102",
+    "name": "Aerodynamics", "number": "RS4560", "startDate": "2023-01-10", "endDate": "2023-05-15"
+  },
+  { "_id": "RS103",
+    "name": "Astronomy", "number": "RS4570", "startDate": "2023-01-10", "endDate": "2023-05-15"
+  },
+
+
+  { "_id": "RS104",
+    "name": "Alien Studies", "number": "CS5610.12631.202410", "startDate": "2023-01-10",
+    "endDate": "2023-05-15"
+  },
+  { "_id": "RS105",
+    "name": "Galactic History", "number": "CS4550.12631.202410", "startDate": "2023-01-10", "endDate": "2023-05-15"
+  },
+  { "_id": "RS106",
+    "name": "Astrophysics 101", "number": "CS3420.12631.202410", "startDate": "2023-01-10", "endDate": "2023-05-15"
+  },
+
+  { "_id": "RS107",
+    "name": "Black Physics", "number": "CS3520.12631.202410", "startDate": "2023-01-10", "endDate": "2023-05-15"
+  },
+
+  { "_id": "RS108",
+    "name": "Astrobiology", "number": "CS4320.12631.202410", "startDate": "2023-01-10", "endDate": "2023-05-15"
+  }
+]
