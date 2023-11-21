@@ -10,7 +10,7 @@ const app = express();
 app.use(express.json());
 app.use(cors());
 // app.get('/hello', (req, res) => {res.send('Life is good!')})
-// app.get('/', (req, res) => {res.send('Welcome to Full Stack Development!')})
+// app.get('/', (req, res) => {res.send('Welcome to Full Stack Dev3elopment!')})
 CourseRoutes(app);
 ModuleRoutes(app);
 Lab5(app);

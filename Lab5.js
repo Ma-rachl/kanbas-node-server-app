@@ -17,6 +17,10 @@ const todos = [
 
 const Lab5 = (app) => {
 
+    app.get('/', (req, res) => {
+        res.send('Welcome to Full Stack Development!')
+    });
+
     //creating new items in the array
     app.get("/a5/todos/create", (req, res) => {
         const newTodo = {
