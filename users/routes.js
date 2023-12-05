@@ -38,6 +38,7 @@ function UserRoutes(app) {
             res.status(400).json(
                 { message: "Username already taken" });
         }
+
         const currentUser = await dao.createUser(req.body);
         req.session['currentUser'] = currentUser;
         res.json(currentUser);
